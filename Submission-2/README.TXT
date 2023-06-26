@@ -13,7 +13,7 @@ A Neural-Based Approach for Detecting the Situational Information From Twitter D
 Link to the paper:
 
 
-https://www.researchgate.net/publication/350865178_A_Neural-Based_Approach_for_Detecting_the_Situational_Information_From_Twitter_During_Disaster
+https://ieeexplore.ieee.org/document/9403734
 
 
 Group Number:
