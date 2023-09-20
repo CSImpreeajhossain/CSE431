@@ -5,8 +5,7 @@ https://www.overleaf.com/project/650b13f29261fa5d0cab947c
 
 Paper title:
 
-An Investigation into Conventional CNNs: Variations in Activation Functions and 
-Convolutional Layer Configurations
+Exploring Transformer-Based Models for Natural Language Understanding: A Comparative Analysis of Architectures and Pretrained Models
 
 
 
